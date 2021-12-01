@@ -27,6 +27,7 @@ We won't go in the full details but you have to know that in order to interpolat
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144323270-41b6764c-3f32-48b2-8811-878daea02806.PNG">
+<p>&nbsp;</p>
 <img src="https://user-images.githubusercontent.com/65224852/144323195-bf9a8c94-93ad-481b-8bdb-fd1b65a5603e.PNG">
 </p>
 
