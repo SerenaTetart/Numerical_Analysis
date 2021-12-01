@@ -25,7 +25,7 @@ We will study only a few implementations of theses interpolations such as Lagran
 
 We won't go in the full details but you have to know that in order to interpolate a function f the polynomial p associated to f is calculated by:
 
-<p align="center">
+<p align="center" style="margin-bottom:60px>
 <img src="https://user-images.githubusercontent.com/65224852/144323270-41b6764c-3f32-48b2-8811-878daea02806.PNG">
 <img src="https://user-images.githubusercontent.com/65224852/144323195-bf9a8c94-93ad-481b-8bdb-fd1b65a5603e.PNG">
 </p>
