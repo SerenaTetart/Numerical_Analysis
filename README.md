@@ -25,7 +25,9 @@ We will study only a few implementations of theses interpolations such as Lagran
 
 We won't go in the full details, we will just see the most important things to understand the differents algorithms.
 
-The polynomial p associated to f is calculated by:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144328885-5cbf08b9-1238-4797-81da-8fbb4f9ae452.PNG">
+</p
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144326646-688ef526-4b97-4455-8de5-f534ad89eaad.PNG">
