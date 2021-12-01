@@ -25,10 +25,6 @@ We will study only a few implementations of theses interpolations such as Lagran
 
 We won't go in the full details, we will just see the most important things to understand the differents algorithms.
 
-From a set of points (x0, ..., xn) belonging to [a,b] (a < b, n >= 1)
-
-where a <= x0 < ... < xn <= b and a function f:[a,b] -> R
-
 the polynomial p associated to f is calculated by:
 
 <p align="center">
