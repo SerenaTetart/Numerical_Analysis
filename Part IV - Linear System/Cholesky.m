@@ -2,7 +2,7 @@ function B = Cholesky(A)
 
   % A symmetric positive definite matrix
   % B upper triangular matrix
-  % Compute A = BB'
+  % Compute B for A = BB'
 
   n = length(A);
   B(1, 1)=sqrt(A(1, 1));
