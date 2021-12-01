@@ -16,7 +16,7 @@ function [L, U] = LU(A)
   
   L = eye(n);
   for i = n-1:-1:1
-    L = L*E(1:n, 1+(n*(i-1)):n*i)
+    L = L*E(1:n, 1+(n*(i-1)):n*i);
   endfor
   L = inv(L);
   U = Ai;
