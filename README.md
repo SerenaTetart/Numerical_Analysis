@@ -10,7 +10,7 @@
 ## Introduction
 *The aim of this repository is not to cover the full course but rather explaining quickly the use of some algorithms in order to solve mathematical problems in an IT environment.*
 
-In this repository we will focus on the branch of applied mathematic studying the developpement of tools/methods to compute approximations for scientific calculus with a computer.
+We will focus on the branch of applied mathematic studying the developpement of tools/methods to compute approximations for scientific calculus with a computer.
 
 ## Part I- Interpolation
 
