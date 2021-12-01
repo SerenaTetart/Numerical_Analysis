@@ -19,7 +19,7 @@ Numerical analysis is opposed to formal calculus because computers obviously doe
 In order to do so we need a new way to represent functions, converting functions to polynomials is the easiest way to do so.
 From only a set of points we are able to approximate functions as polynomials, this operation is called interpolation.
 
-We will only study a few implementations of theses interpolations such as Lagrange, Newton and Hermite.
+We will only study a few implementations of these interpolations such as Lagrange, Newton and Hermite.
 
 ### Lagrange:
 
