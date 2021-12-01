@@ -4,8 +4,7 @@ function [L, U] = LU(A)
   % Compute L and U with A = LU
   
   n = length(A);
-  Ai = A;
-  E = [];
+  Ai = A; E = [];
   for i = 1:n
     Ei = eye(n);
     X = -Ai(1:n, i)/Ai(i, i);
