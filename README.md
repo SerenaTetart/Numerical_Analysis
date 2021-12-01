@@ -23,7 +23,9 @@ We will study only a few implementations of theses interpolations such as Lagran
 
 ### Lagrange:
 
-We won't go in the full details but you have to know that in order to interpolate a function f the polynomial p associated to f is calculated by: (j ~= i !)
+We won't go in the full details but you have to know that in order to interpolate a function f the polynomial p associated to f is calculated by:
+
+(j != i !)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144324019-f317041e-b989-4441-ba8d-bfee2e9ad73f.PNG">
