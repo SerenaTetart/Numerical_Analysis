@@ -23,6 +23,14 @@ We will study only a few implementations of theses interpolations such as Lagran
 
 ### Lagrange:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144323270-41b6764c-3f32-48b2-8811-878daea02806.PNG">
+</p>
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144323195-bf9a8c94-93ad-481b-8bdb-fd1b65a5603e.PNG">
+</p>
+
 ### Newton:
 
 ### Hermite:
