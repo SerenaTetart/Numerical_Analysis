@@ -1,6 +1,6 @@
 function B = Cholesky(A)
 
-  % A defined positive symetric matrix
+  % A symmetric positive definite matrix
   % B upper triangular matrix
   % Compute A = BB'
 
