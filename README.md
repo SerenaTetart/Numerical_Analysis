@@ -23,7 +23,7 @@ We will study only a few implementations of theses interpolations such as Lagran
 
 ### Lagrange:
 
-We won't go in the full details, we will just see the most important things to understand the differents algorithms.
+We won't go into full details, we will just see the most important things to understand the differents algorithms.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144329768-2abbe8e8-8a5d-4797-a200-daf3e7f434d2.PNG">
