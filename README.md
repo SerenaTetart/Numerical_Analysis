@@ -27,7 +27,7 @@ We won't go in the full details but you have to know that in order to interpolat
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144326163-59d90639-fbaa-492f-ba98-032be4d726b6.PNG">
-<img src="https://user-images.githubusercontent.com/65224852/144323195-bf9a8c94-93ad-481b-8bdb-fd1b65a5603e.PNG">
+<img src="https://user-images.githubusercontent.com/65224852/144326553-15be624d-a8ee-43e7-b59c-e4346be6962a.PNG">
 </p>
 
 ### Newton:
