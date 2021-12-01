@@ -1,4 +1,6 @@
 function X = Resolution(A, b)
+
+#Solve the linear equation Ax = b for a triangular matrix
   
   n = length(A);
   X=b;
