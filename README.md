@@ -21,11 +21,11 @@ From only a set of points we are able to approximate functions as polynomials, t
 
 We will study only a few implementations of theses interpolations such as Lagrange, Newton and Hermite.
 
-### Lagrange
+### Lagrange:
 
-### Newton
+### Newton:
 
-### Hermite
+### Hermite:
 
 ## Part II- Derivation
 
