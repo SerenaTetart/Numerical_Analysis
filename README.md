@@ -26,7 +26,7 @@ We will study only a few implementations of theses interpolations such as Lagran
 We won't go in the full details, we will just see the most important things to understand the differents algorithms.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144328885-5cbf08b9-1238-4797-81da-8fbb4f9ae452.PNG">
+<img src="https://user-images.githubusercontent.com/65224852/144329415-0e23d46c-b5fb-4210-8c78-65e456e29627.PNG">
 </p>
 
 <p align="center">
