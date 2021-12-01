@@ -1,4 +1,4 @@
-function G = Derivate2(X, Y)
+function G = Derivate3Points(X, Y)
   
   n=length(X);
   f =@(k) Y(k+1).*(X(k)-X(k-1))./((X(k+1)-X(k)).*(X(k+1)-X(k-1)));
