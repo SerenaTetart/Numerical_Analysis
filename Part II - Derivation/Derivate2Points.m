@@ -1,4 +1,4 @@
-function G = Derivate2(X, Y)
+function G = Derivate2Points(X, Y)
   
   n=length(X);
   g = @(x) (Y(x)-Y(x-1))./(X(x)-X(x-1));
