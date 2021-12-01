@@ -23,6 +23,8 @@ We will study only a few implementations of theses interpolations such as Lagran
 
 ### Lagrange:
 
+We won't go in the full details but you have to know that in order to interpolate a function f the polynomial p associated to f is calculated by:
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144323270-41b6764c-3f32-48b2-8811-878daea02806.PNG">
 </p>
