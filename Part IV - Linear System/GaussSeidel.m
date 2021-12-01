@@ -1,4 +1,4 @@
-function [x, iter] = Jacobi(A, b, x0, eps, itmax)
+function [x, iter] = GaussSeidel(A, b, x0, eps, itmax)
   err = 1;
   x = x0;
   iter = 0;
