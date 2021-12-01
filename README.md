@@ -24,12 +24,7 @@ We will only study a few implementations of these interpolations such as Lagrang
 ### Lagrange:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144329768-2abbe8e8-8a5d-4797-a200-daf3e7f434d2.PNG">
-</p>
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144326646-688ef526-4b97-4455-8de5-f534ad89eaad.PNG">
-<img src="https://user-images.githubusercontent.com/65224852/144326553-15be624d-a8ee-43e7-b59c-e4346be6962a.PNG">
+<img src="https://user-images.githubusercontent.com/65224852/144330999-2ae40090-3c18-4f78-a686-83466e2c9862.PNG">
 </p>
 
 ### Newton:
