@@ -1,8 +1,8 @@
 function B = Cholesky(A)
-  
+
   %A symétrique définie positive
   %B triangulaire supérieur
-  
+
   n = length(A);
   B(1, 1)=sqrt(A(1, 1));
   for i=2:n
