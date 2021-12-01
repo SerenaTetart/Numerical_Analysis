@@ -23,6 +23,8 @@ We will only study a few implementations of these interpolations such as Lagrang
 
 ### Lagrange:
 
+The first and most basic interpolation of all is Lagrange's interpolation, it works fine but doesn't take into account the derivative of the function or the addition of points in the equation for better accuracy (and lower loss).
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144330999-2ae40090-3c18-4f78-a686-83466e2c9862.PNG">
 </p>
