@@ -58,7 +58,7 @@ In Lagrange's base the calculation of the interpolation polynomial Pk of a funct
 <img src="https://user-images.githubusercontent.com/65224852/144345669-dfdd2f56-bb33-4bb0-8ba1-34fb745b4b7e.PNG">
 </p>
 
-Now let's try the function Newton() with a set of points chosen from Tchebitchev:
+Now let's try the function Newton() with a set of points chosen from Tchebichev:
 
 ```
 >> X=Tchebychev(-pi, pi, 5)
