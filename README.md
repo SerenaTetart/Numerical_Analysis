@@ -170,7 +170,7 @@ We can notice through the formula of Chasles that:
 We then replace f by a weighted average:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144515831-bb54be90-b2ae-45ff-9108-f9e67ea4a4e0.PNG">
+<img src="https://user-images.githubusercontent.com/65224852/144516876-983b406c-e9a1-4dd7-a005-ecd23083fe55.PNG">
 </p>
 
 This is what we call the elementary quadrature method.
