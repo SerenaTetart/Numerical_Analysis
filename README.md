@@ -29,6 +29,8 @@ The first and most basic interpolation of all is Lagrange's interpolation, it wo
 <img src="https://user-images.githubusercontent.com/65224852/144330999-2ae40090-3c18-4f78-a686-83466e2c9862.PNG">
 </p>
 
+We will try the Matlab function Lagrange() given in this repository:
+
 ```
 >> X=[-pi -pi/2 0 pi/2 pi]
 >> Y=cos(X)
@@ -39,6 +41,10 @@ The first and most basic interpolation of all is Lagrange's interpolation, it wo
 >> plot(x, P(x))
 >> legend('cos', 'interpol')
 ```
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144335036-0dc351bf-3268-4165-a809-3760b79fe876.PNG">
+</p>
 
 ### Newton:
 
