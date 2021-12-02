@@ -77,6 +77,8 @@ Now let's try the function Newton() with a set of points chosen from Tchebychev:
 
 ### Hermite:
 
+All the interpolations seen before doesn't take into account the derivative of f, which is why we need a new base in order to represent those derivatives.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144444560-a5f96c00-576b-4f81-ad97-3f0636973114.PNG">
 </p>
