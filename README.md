@@ -113,6 +113,8 @@ In order to approach the derivative f' of a function f we don't necessarily have
 
 ## Three points formula
 
+This formula is more accurate than the last (the error is lower).
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144460928-4b6bad09-9665-481b-b167-33c042e5cc52.PNG">
 </p>
