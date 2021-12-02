@@ -83,6 +83,8 @@ All the interpolations seen before doesn't take into account the derivative of f
 <img src="https://user-images.githubusercontent.com/65224852/144450804-1badc1c4-ad58-473c-85d7-5956bf74ef57.PNG">
 </p>
 
+Let's now try it with a set of points between 0 and 10 chosen from Tchebychev, the function is called Hermite() and take into parameter the derivative Y2 here.
+
 ```
 >> X=Tchebychev(0, 10, 100);
 >> Y=cos(X);
