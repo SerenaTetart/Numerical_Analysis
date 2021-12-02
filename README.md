@@ -128,6 +128,8 @@ We won't cover all the demonstrations, the goal is to show the different algorit
 <img src="https://user-images.githubusercontent.com/65224852/144468791-56c76aab-e97f-4009-8abf-6b223b5c599c.PNG">
 </p>
 
+Here we used the decentred right formula, and we can see the approximation's curve is slightly off on the right, the next formula will address this issue.
+
 ## Three points formula
 
 This formula is more accurate than the last (the error is lower).
