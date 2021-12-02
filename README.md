@@ -105,6 +105,8 @@ The error is much higher because Hermite's interpolation is designed for small i
 
 In order to approach the derivative f' of a function f we don't necessarily have an explicit formula, or it is too complicated which is why we need to derivate the interpolation polynomial in a set of points xi where the function is supposed to be known.
 
+We won't cover all the demonstrations, the goal is to show the different algorithms.
+
 ## Two points formula
 
 <p align="center">
