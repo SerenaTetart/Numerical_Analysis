@@ -83,6 +83,18 @@ All the interpolations seen before doesn't take into account the derivative of f
 <img src="https://user-images.githubusercontent.com/65224852/144444560-a5f96c00-576b-4f81-ad97-3f0636973114.PNG">
 </p>
 
+```
+>> X=Tchebychev(0, 10, 100);
+>> Y=cos(X);
+>> Y2=sin(X);
+>> P=@(x) Hermite(x, X, Y, Y2);
+>> x=0:0.1:10;
+>> plot(x, cos(x))
+>> hold on
+>> plot(x, P(x))
+>> legend('cos', 'hermite')
+```
+
 ## Part II- Derivation
 
 ## Part III- Integration
