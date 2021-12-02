@@ -52,6 +52,8 @@ This is called the <a href='https://en.wikipedia.org/wiki/Runge%27s_phenomenon'>
 
 ### Newton:
 
+In Lagrange's base the calculation of the interpolation polynomial Pk of a function f associated with points x0, ..., xk is of no use for the calculation of the interpolation polynomial Pk+1 of f associated with points x0, ..., xk+1.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144341102-fb81f987-7aad-4ee8-90a6-54ca77f2af17.PNG">
 </p>
