@@ -48,7 +48,7 @@ We will try the Matlab function Lagrange() given in this repository:
 
 As we can see at the border of the interpolation the function is exploding !
 
-This is called the Runge's phenomenon it is a problem of oscillation at the edges of an interval that occurs when using polynomial interpolation with polynomials of high degree over a set of equispaced interpolation points.
+This is called the <a href='https://en.wikipedia.org/wiki/Runge%27s_phenomenon'>Runge's phenomenon</a> it is a problem of oscillation at the edges of an interval that occurs when using polynomial interpolation with polynomials of high degree over a set of equispaced interpolation points.
 
 ### Newton:
 
