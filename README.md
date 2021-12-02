@@ -111,6 +111,17 @@ In order to approach the derivative f' of a function f we don't necessarily have
 <img src="https://user-images.githubusercontent.com/65224852/144458182-4d744402-4a64-43f5-81ec-2710b996acc1.PNG">
 </p>
 
+```
+>> X=0:0.1:10;
+>> f=@(x) cos(x);
+>> Y=f(X);
+>> G=Derivate2Points(X, Y);
+>> plot(X, -sin(X))
+>> hold on
+>> stem(x(2:n), G, 'LineStyle', 'none')
+>> legend('-sin(x)', 'approximation')
+```
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144468791-56c76aab-e97f-4009-8abf-6b223b5c599c.PNG">
 </p>
