@@ -159,4 +159,10 @@ This formula is more accurate than the last (the error is lower).
 
 ## Part III- Integration
 
+In this part we will be focusing on looking for an approximation of Riemann's integral, in order to do so we pick a set of subdivisions, an intenger k >= 1 and reals t0, ..., tk such as: a= t0 < t1 < ... < tk = b and we can notice through the formula of Chasles that:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144509109-81b49162-421a-4e6b-8fd1-960cc1f2d200.PNG">
+</p>
+
 ## Part IV- Linear Systems
