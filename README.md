@@ -29,6 +29,17 @@ The first and most basic interpolation of all is Lagrange's interpolation, it wo
 <img src="https://user-images.githubusercontent.com/65224852/144330999-2ae40090-3c18-4f78-a686-83466e2c9862.PNG">
 </p>
 
+```
+>> X=[-pi -pi/2 0 pi/2 pi]
+>> Y=cos(X)
+>> P=@(x) Lagrange(x, X, Y)
+>> x=-5:0.1:5;
+>> plot(x, cos(x))
+>> hold on
+>> plot(x, P(x))
+>> legend('cos', 'interpol')
+```
+
 ### Newton:
 
 ### Hermite:
