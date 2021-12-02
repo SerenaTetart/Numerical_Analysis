@@ -166,7 +166,7 @@ To do so we pick a set of subdivisions of reals t0, ..., tk and an intenger k >=
 We can notice through the formula of Chasles that:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144509718-24d2fcd0-414f-4f68-8cd9-e50410b0a347.PNG">
+<img src="https://user-images.githubusercontent.com/65224852/144512116-778ef2e4-69ba-47b6-a83d-44ab1e0ed48a.PNG">
 </p>
 
 We then replace f by a weighted average where li >= 0 an integer, ωi,j a family of reals and ξi,j a family of [ti, ti+1]:
