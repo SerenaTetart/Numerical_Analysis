@@ -167,6 +167,10 @@ We can notice through the formula of Chasles that:
 <img src="https://user-images.githubusercontent.com/65224852/144512116-778ef2e4-69ba-47b6-a83d-44ab1e0ed48a.PNG">
 </p>
 
-We then replace f by a weighted average where li >= 0 an integer, ωi,j a family of reals and ξi,j a family of [ti, ti+1]:
+We then replace f by a weighted average:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144515831-bb54be90-b2ae-45ff-9108-f9e67ea4a4e0.PNG">
+</p>
 
 ## Part IV- Linear Systems
