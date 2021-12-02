@@ -77,6 +77,10 @@ Now let's try the function Newton() with a set of points chosen from Tchebychev:
 
 ### Hermite:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144444560-a5f96c00-576b-4f81-ad97-3f0636973114.PNG">
+</p>
+
 ## Part II- Derivation
 
 ## Part III- Integration
