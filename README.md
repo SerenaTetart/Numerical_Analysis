@@ -58,6 +58,19 @@ In Lagrange's base the calculation of the interpolation polynomial Pk of a funct
 <img src="https://user-images.githubusercontent.com/65224852/144341102-fb81f987-7aad-4ee8-90a6-54ca77f2af17.PNG">
 </p>
 
+Now let's try the function Newton() with a set of points chosen from Tchebitchev:
+
+```
+>> X=Tchebychev(-pi, pi, 5)
+>> Y=sin(X)
+>> P=@(x) Newton(x, X, Y)
+>> x=-5:0.1:5;
+>> plot(x, sin(x))
+>> hold on
+>> plot(x, P(x))
+>> legend('sin', 'newton')
+```
+
 ### Hermite:
 
 ## Part II- Derivation
