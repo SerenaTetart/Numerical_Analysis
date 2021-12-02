@@ -173,4 +173,6 @@ We then replace f by a weighted average:
 <img src="https://user-images.githubusercontent.com/65224852/144515831-bb54be90-b2ae-45ff-9108-f9e67ea4a4e0.PNG">
 </p>
 
+This is what we call the elementary quadrature method.
+
 ## Part IV- Linear Systems
