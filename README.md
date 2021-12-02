@@ -161,7 +161,7 @@ This formula is more accurate than the last (the error is lower).
 
 In this part we will be focusing on looking for an approximation of Riemann's integral.
 
-To do so we pick a set of subdivisions of reals t0, ..., tk and an intenger k >= 1 such as: a= t0 < t1 < ... < tk = b  we can notice through the formula of Chasles that:
+To do so we pick a set of subdivisions of reals t0, ..., tk and an intenger k >= 1 such as: a= t0 < t1 < ... < tk = b \n we can notice through the formula of Chasles that:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144509718-24d2fcd0-414f-4f68-8cd9-e50410b0a347.PNG">
