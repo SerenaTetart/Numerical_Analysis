@@ -145,6 +145,10 @@ This formula is more accurate than the last (the error is lower).
 >> legend('-sin(x)', 'approximation')
 ```
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144470669-e8ea99e8-9c08-484e-bcce-26c983442712.PNG">
+</p>
+
 ## Part III- Integration
 
 ## Part IV- Linear Systems
