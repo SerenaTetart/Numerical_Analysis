@@ -46,7 +46,7 @@ We will try the Matlab function Lagrange() given in this repository:
 <img src="https://user-images.githubusercontent.com/65224852/144335036-0dc351bf-3268-4165-a809-3760b79fe876.PNG">
 </p>
 
-As we can see at the border of the interpolation the function is exploding !
+As we can see at the edge of the interpolation the function is exploding !
 
 This is called the <a href='https://en.wikipedia.org/wiki/Runge%27s_phenomenon'>Runge's phenomenon</a> it is a problem of oscillation at the edges of an interval that occurs when using polynomial interpolation with polynomials of high degree over a set of equispaced interpolation points.
 
