@@ -55,7 +55,7 @@ This is called the <a href='https://en.wikipedia.org/wiki/Runge%27s_phenomenon'>
 In Lagrange's base the calculation of the interpolation polynomial Pk of a function f associated with points x0,...,xk is of no use for the calculation of the interpolation polynomial Pk+1 of f associated with points x0,...,xk+1 which is why we need a new base capable of calculating Pk+1 easily.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144341102-fb81f987-7aad-4ee8-90a6-54ca77f2af17.PNG">
+<img src="https://user-images.githubusercontent.com/65224852/144345669-dfdd2f56-bb33-4bb0-8ba1-34fb745b4b7e.PNG">
 </p>
 
 Now let's try the function Newton() with a set of points chosen from Tchebitchev:
