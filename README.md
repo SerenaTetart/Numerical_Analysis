@@ -99,6 +99,8 @@ All the interpolations seen before doesn't take into account the derivative of f
 <img src="https://user-images.githubusercontent.com/65224852/144447345-b5b8c9a5-a7a3-4475-8e2c-2becc21bb0f5.PNG">
 </p>
 
+The error is much higher because Hermite's interpolation is designed for small intervals.
+
 ## Part II- Derivation
 
 ## Part III- Integration
