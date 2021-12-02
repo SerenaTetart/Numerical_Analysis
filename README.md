@@ -113,7 +113,7 @@ We won't cover all the demonstrations, the goal is to show the different algorit
 <img src="https://user-images.githubusercontent.com/65224852/144458182-4d744402-4a64-43f5-81ec-2710b996acc1.PNG">
 </p>
 
-Now that we have the formula, let's try it on cosinus(x) with the function Derivate2Points linked in this repository. We know that the derivative of cosinus(x) is -sinus(x).
+Now that we have the formula, let's try it on cosinus(x) with the function Derivate2Points() linked in this repository. We know that the derivative of cosinus(x) is -sinus(x).
 
 ```
 >> X=0:0.1:10;
