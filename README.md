@@ -161,8 +161,6 @@ This formula is more accurate than the last (the error is lower).
 
 In this part we will be focusing on looking for an approximation of Riemann's integral.
 
-To do so we pick a set of subdivisions of reals t0, ..., tk and an intenger k >= 1 such as: a= t0 < t1 < ... < tk = b
-
 We can notice through the formula of Chasles that:
 
 <p align="center">
@@ -170,9 +168,5 @@ We can notice through the formula of Chasles that:
 </p>
 
 We then replace f by a weighted average where li >= 0 an integer, ωi,j a family of reals and ξi,j a family of [ti, ti+1]:
-
-<p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144512116-778ef2e4-69ba-47b6-a83d-44ab1e0ed48a.PNG">
-</p>
 
 ## Part IV- Linear Systems
