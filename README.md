@@ -52,6 +52,10 @@ This is called the <a href='https://en.wikipedia.org/wiki/Runge%27s_phenomenon'>
 
 ### Newton:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144341102-fb81f987-7aad-4ee8-90a6-54ca77f2af17.PNG">
+</p>
+
 ### Hermite:
 
 ## Part II- Derivation
