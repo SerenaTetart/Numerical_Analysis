@@ -118,7 +118,7 @@ In order to approach the derivative f' of a function f we don't necessarily have
 >> G=Derivate2Points(X, Y);
 >> plot(X, -sin(X))
 >> hold on
->> stem(x(2:n), G, 'LineStyle', 'none')
+>> stem(X(2:n), G, 'LineStyle', 'none')
 >> legend('-sin(x)', 'approximation')
 ```
 
@@ -133,6 +133,17 @@ This formula is more accurate than the last (the error is lower).
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144460928-4b6bad09-9665-481b-b167-33c042e5cc52.PNG">
 </p>
+
+```
+>> X=0:0.1:10;
+>> f=@(x) cos(x);
+>> Y=f(X);
+>> G=Derivate3Points(X, Y);
+>> plot(X, -sin(X))
+>> hold on
+>> stem(X(2:n-1), G, 'LineStyle', 'none')
+>> legend('-sin(x)', 'approximation')
+```
 
 ## Part III- Integration
 
