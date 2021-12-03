@@ -198,4 +198,8 @@ ans = -0.5442
 
 ### Simpson's method:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144643843-b8767472-d2fb-4f1c-b8e8-4ae4e0e5f918.png">
+</p>
+
 ## Part IV- Linear Systems
