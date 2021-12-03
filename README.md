@@ -184,9 +184,9 @@ This is what we call the elementary quadrature method.
 If we try this on cos(x) with x between [0, 10]
 
 ```
->> x = [0:0.1:10]
+>> X = [0:0.1:10]
 >> Y = @(x) cos(x)
->> MiddlePoint(x, Y)
+>> MiddlePoint(X, Y)
 ans = -0.5442
 ```
 
