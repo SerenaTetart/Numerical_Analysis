@@ -181,6 +181,15 @@ This is what we call the elementary quadrature method.
 <img src="https://user-images.githubusercontent.com/65224852/144634068-fcd12c44-bd77-4c6e-9012-91ad7e4d9aca.png">
 </p>
 
+If we try this on cos(x) with x between [0, 10]
+
+```
+>> x = [0:0.1:10]
+>> Y = @(x) cos(x)
+>> MiddlePoint(x, Y)
+ans = -0.5442
+```
+
 ### Trapezium's method:
 
 ### Simpson's method:
