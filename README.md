@@ -177,4 +177,8 @@ This is what we call the elementary quadrature method.
 
 ### Middle points' method:
 
+### Trapezium's method:
+
+### Simpson's method:
+
 ## Part IV- Linear Systems
