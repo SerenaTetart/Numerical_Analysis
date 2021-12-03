@@ -192,6 +192,10 @@ ans = -0.5442
 
 ### Trapezium's method:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144642582-65a3ceb8-ed58-49ad-bb3b-847154ed6c57.png">
+</p>
+
 ### Simpson's method:
 
 ## Part IV- Linear Systems
