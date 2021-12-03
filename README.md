@@ -193,7 +193,7 @@ ans = -0.5442
 ### Trapezium's method:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144642582-65a3ceb8-ed58-49ad-bb3b-847154ed6c57.png">
+<img src="https://user-images.githubusercontent.com/65224852/144642669-2c28547a-9dfc-4fdb-8c64-9786fe2b09a4.png">
 </p>
 
 ### Simpson's method:
