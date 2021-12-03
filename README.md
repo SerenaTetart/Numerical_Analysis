@@ -177,6 +177,10 @@ This is what we call the elementary quadrature method.
 
 ### Middle points' method:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144634068-fcd12c44-bd77-4c6e-9012-91ad7e4d9aca.png">
+</p>
+
 ### Trapezium's method:
 
 ### Simpson's method:
