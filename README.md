@@ -192,6 +192,8 @@ ans = -0.5442
 
 ### Trapezium's method:
 
+This method is more accurate than the last.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144642669-2c28547a-9dfc-4fdb-8c64-9786fe2b09a4.png">
 </p>
@@ -206,6 +208,8 @@ ans = -0.5436
 ```
 
 ### Simpson's method:
+
+This method contrary to the two last has an order of 3, meaning it can approximate functions of degree 3 like f^3.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144644169-3d6f3c4d-8ab0-4010-b385-7f9df77cf0a9.png">
