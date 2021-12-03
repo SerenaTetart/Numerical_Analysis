@@ -178,7 +178,7 @@ This is what we call the elementary quadrature method.
 ### Middle points' method:
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144634068-fcd12c44-bd77-4c6e-9012-91ad7e4d9aca.png">
+<img src="https://user-images.githubusercontent.com/65224852/144641885-21bbef34-1509-4dd3-94bf-03780d0cf45e.png">
 </p>
 
 If we try this on cos(x) with x between [0, 10]
