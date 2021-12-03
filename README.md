@@ -109,7 +109,7 @@ In order to approach the derivative f' of a function f we don't necessarily have
 
 We won't cover all the demonstrations, the goal is to show the different algorithms.
 
-### Two points formula
+### Two points formula:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144458182-4d744402-4a64-43f5-81ec-2710b996acc1.PNG">
@@ -134,7 +134,7 @@ Now that we have the formula, let's try it on cosinus(x) with the function Deriv
 
 Here we used the decentred right formula, and we can see the approximation's curve is slightly off on the right, the next formula will address this issue.
 
-### Three points formula
+### Three points formula:
 
 This formula is more accurate than the last (the error is lower).
 
@@ -175,6 +175,6 @@ We then replace f by a weighted average:
 
 This is what we call the elementary quadrature method.
 
-### Middle points' method
+### Middle points' method:
 
 ## Part IV- Linear Systems
