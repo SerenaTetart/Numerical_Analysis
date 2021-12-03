@@ -196,10 +196,26 @@ ans = -0.5442
 <img src="https://user-images.githubusercontent.com/65224852/144642669-2c28547a-9dfc-4fdb-8c64-9786fe2b09a4.png">
 </p>
 
+Let's try it on the same function:
+
+```
+>> X = [0:0.1:10]
+>> Y = @(x) cos(x)
+>> Trapeze(X, Y)
+ans = -0.5436
+```
+
 ### Simpson's method:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144644169-3d6f3c4d-8ab0-4010-b385-7f9df77cf0a9.png">
 </p>
+
+```
+>> X = [0:0.1:10]
+>> Y = @(x) cos(x)
+>> Simpson(X, Y)
+ans = -0.5440
+```
 
 ## Part IV- Linear Systems
