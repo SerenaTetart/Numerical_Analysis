@@ -181,7 +181,7 @@ This is what we call the elementary quadrature method.
 <img src="https://user-images.githubusercontent.com/65224852/144641885-21bbef34-1509-4dd3-94bf-03780d0cf45e.png">
 </p>
 
-If we try this on cos(x) with x between [0, 10]
+If we try MiddlePoint() on cos(x) with x between [0, 10]
 
 ```
 >> X = [0:0.1:10]
@@ -196,7 +196,7 @@ ans = -0.5442
 <img src="https://user-images.githubusercontent.com/65224852/144642669-2c28547a-9dfc-4fdb-8c64-9786fe2b09a4.png">
 </p>
 
-Let's try it on the same function:
+Let's try Trapeze() on the same function, cos(x):
 
 ```
 >> X = [0:0.1:10]
@@ -210,6 +210,8 @@ ans = -0.5436
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144644169-3d6f3c4d-8ab0-4010-b385-7f9df77cf0a9.png">
 </p>
+
+Finally with Simpson():
 
 ```
 >> X = [0:0.1:10]
