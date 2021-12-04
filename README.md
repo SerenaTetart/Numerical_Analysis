@@ -232,6 +232,8 @@ In this part the goal is to solve the equation Ax = b.
 
 We are going to construct a sequence of functions f(xk) and the goal is to find the fixed point of this function.
 
+The idea is as follow:
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144722190-3d979811-0fa8-4135-bc91-b3a69732b94f.png">
 </p>
