@@ -225,3 +225,9 @@ ans = -0.5440
 ```
 
 ## Part IV- Linear Systems
+
+In this part the goal is to solve the equation Ax = b
+
+### Iterative Method
+
+### Direct Method
