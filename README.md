@@ -228,7 +228,7 @@ ans = -0.5440
 
 In this part the goal is to solve the equation Ax = b.
 
-### Iterative Method
+### Iterative Method:
 
 We are going to construct a sequence of functions f(xk) and the goal is to find the fixed point of this function.
 
@@ -240,4 +240,9 @@ The idea is as follow:
 
 *To make it work you need to verify that the spectral radius of your matrix A is less than 1 but I won't cover this kind of demonstration here.*
 
-### Direct Method
+#### Jacobi's Method:
+
+
+#### Gauss-Seidel's Method:
+
+### Direct Method:
