@@ -226,7 +226,7 @@ ans = -0.5440
 
 ## Part IV- Linear Systems
 
-In this part the goal is to solve the equation Ax = b
+In this part the goal is to solve the equation Ax = b where A belongs to Mn(K) and x and b are vectors.
 
 ### Iterative Method
 
