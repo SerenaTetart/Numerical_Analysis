@@ -230,4 +230,8 @@ In this part the goal is to solve the equation Ax = b where A belongs to Mn(K) a
 
 ### Iterative Method
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144721753-6a213ef4-6337-435a-ad2a-3466ebcc256a.png">
+</p>
+
 ### Direct Method
