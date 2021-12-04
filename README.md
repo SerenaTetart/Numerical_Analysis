@@ -226,12 +226,14 @@ ans = -0.5440
 
 ## Part IV- Linear Systems
 
-In this part the goal is to solve the equation Ax = b where A belongs to Mn(K) and x and b are vectors.
+In this part the goal is to solve the equation Ax = b.
 
 ### Iterative Method
 
+We are going to construct a sequence of functions f(xk) and the goal is to find the fixed point of this function.
+
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144721753-6a213ef4-6337-435a-ad2a-3466ebcc256a.png">
+<img src="https://user-images.githubusercontent.com/65224852/144721979-1edde2c5-268f-421f-8e69-a2477a0e4416.png">
 </p>
 
 ### Direct Method
