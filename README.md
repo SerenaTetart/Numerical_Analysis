@@ -238,6 +238,6 @@ The idea is as follow:
 <img src="https://user-images.githubusercontent.com/65224852/144722190-3d979811-0fa8-4135-bc91-b3a69732b94f.png">
 </p>
 
-*In order to make it work you need to verify that the spectral radius of your matrix A is less than 1 but I won't cover this kind of demonstration here.
+*In order to make it work you need to verify that the spectral radius of your matrix A is less than 1 but I won't cover this kind of demonstration here.*
 
 ### Direct Method
