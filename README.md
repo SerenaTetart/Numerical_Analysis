@@ -242,6 +242,11 @@ The idea is as follow:
 
 #### Jacobi's Method:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144729577-eab622dc-5228-489f-b80c-95cc397cacea.png">
+</p>
+
+If A is dominant diagonal strict, then the Jacobi's Method associated with A converge.
 
 #### Gauss-Seidel's Method:
 
