@@ -299,3 +299,14 @@ ans =
 ```
 
 ### Direct Method:
+
+It is possible to solve Ax = b for matrixes A triangular, as shown by the following equations:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144760140-5db630bb-6998-47e7-a77c-f13f93a5ee49.png">
+<img src="https://user-images.githubusercontent.com/65224852/144760142-fb604f82-2ecb-4766-95bb-37fb75dd3e62.png">
+</p>
+
+#### LU's factorization
+
+#### Cholesky's factorization
