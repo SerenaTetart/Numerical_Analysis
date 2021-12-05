@@ -1,4 +1,4 @@
-function [x, iter] = Relaxation(A, b, x0, eps, itmax)
+function [x, iter] = Relaxation(A, b, x0, w, eps, itmax)
   err = 1;
   x = x0;
   iter = 0;
