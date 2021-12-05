@@ -258,5 +258,8 @@ Just like Jacobi's method, Gauss-Seidel's method converge if A is strictly diago
 
 #### Relaxation's Method:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144730664-b9b58774-06ec-41a0-a9c2-40d647d2c101.png">
+</p>
 
 ### Direct Method:
