@@ -325,7 +325,7 @@ Let A belong to Mn(K), A admits a factorization (or decomposition) LU when there
 
 If all the principal minors of A are not null, then A admits a factorization LU.
 
-In order to get the LU's factorization we need to apply Gauss' pivots method:
+In order to get the LU's factorization we need to apply Gauss' pivots method, let's illustrate the idea with an exemple:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144763030-46e5ba2f-8411-48d9-b5ae-5386216871e1.png">
