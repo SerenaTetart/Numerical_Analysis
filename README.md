@@ -246,7 +246,7 @@ The idea is as follow:
 <img src="https://user-images.githubusercontent.com/65224852/144729577-eab622dc-5228-489f-b80c-95cc397cacea.png">
 </p>
 
-If A is dominant diagonal strict, then the Jacobi's Method associated with A converge.
+If A is strictly diagonally dominant, then the Jacobi's Method associated with A converge.
 
 #### Gauss-Seidel's Method:
 
