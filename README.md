@@ -250,6 +250,9 @@ If A is strictly diagonally dominant, then the Jacobi's method associated with A
 
 #### Gauss-Seidel's Method:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144730019-191d4152-cdbf-4f34-9633-9413d39edc2f.png">
+</p>
 
 #### Relaxation's Method:
 
