@@ -311,4 +311,10 @@ This is called the escalation method, the same is possible with lower triangular
 
 #### LU's factorization
 
+Let A belong to Mn(K), A admits a factorization (or decomposition) LU when there exist a pair of (L, U) elements of Mn(K) with L lower triangular and U upper triangular, such as: A = LU.
+
+If all the principal minors of A are not null, then A admits a factorization LU.
+
+In order to get the LU's factorization we need to apply Gauss' pivots method:
+
 #### Cholesky's factorization
