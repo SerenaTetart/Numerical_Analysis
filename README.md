@@ -254,6 +254,8 @@ If A is strictly diagonally dominant, then the Jacobi's method associated with A
 <img src="https://user-images.githubusercontent.com/65224852/144730019-191d4152-cdbf-4f34-9633-9413d39edc2f.png">
 </p>
 
+Just like Jacobi's method, Gauss-Seidel's method converge if A is strictly diagonally dominant.
+
 #### Relaxation's Method:
 
 
