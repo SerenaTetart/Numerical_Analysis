@@ -319,13 +319,13 @@ ans =
   1.0000
 ```
 
-#### LU's factorization
+#### LU factorization
 
 Let A belong to Mn(K), A admits a factorization (or decomposition) LU when there exist a pair of (L, U) elements of Mn(K) with L lower triangular and U upper triangular, such as: A = LU.
 
 If all the principal minors of A are not null, then A admits a factorization LU.
 
-In order to get the LU's factorization we need to apply Gauss' pivots method, let's illustrate the idea with an exemple:
+In order to get the LU factorization we need to apply Gauss' pivots method, let's illustrate the idea with an exemple:
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144763030-46e5ba2f-8411-48d9-b5ae-5386216871e1.png">
