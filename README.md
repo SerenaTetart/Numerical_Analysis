@@ -327,6 +327,10 @@ If all the principal minors of A are not null, then A admits a factorization LU.
 
 In order to get the LU's factorization we need to apply Gauss' pivots method:
 
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144763030-46e5ba2f-8411-48d9-b5ae-5386216871e1.png">
+</p>
+
 ```
 >> A = [1 2 3; 2 3 4; 1 3 2]
 >> [L, U] = LU(A)
