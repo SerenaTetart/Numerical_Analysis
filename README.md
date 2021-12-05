@@ -307,6 +307,8 @@ It is possible to solve Ax = b for matrixes A triangular, as shown by the follow
 <img src="https://user-images.githubusercontent.com/65224852/144760290-0586ab73-497c-4ada-bd69-eca5fa13a009.png">
 </p>
 
+This is called the escalation method, the same is possible with lower triangular matrixes.
+
 #### LU's factorization
 
 #### Cholesky's factorization
