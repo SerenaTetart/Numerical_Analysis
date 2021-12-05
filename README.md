@@ -319,7 +319,7 @@ ans =
   1.0000
 ```
 
-#### LU factorization
+#### LU factorization:
 
 Let A belong to Mn(K), A admits a factorization (or decomposition) LU when there exist a pair of (L, U) elements of Mn(K) with L lower triangular and U upper triangular, such as: A = LU.
 
@@ -344,5 +344,5 @@ U =
   0  0 -3
 ```
 
-#### Cholesky's factorization
+#### Cholesky's factorization:
 
