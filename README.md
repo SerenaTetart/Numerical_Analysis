@@ -184,8 +184,8 @@ This is what we call the elementary quadrature method.
 If we try MiddlePoint() on cos(x) with x between [0, 10]
 
 ```
->> X = [0:0.1:10]
->> Y = @(x) cos(x)
+>> X = [0:0.1:10];
+>> Y = @(x) cos(x);
 >> MiddlePoint(X, Y)
 ans = -0.5442
 ```
@@ -201,8 +201,8 @@ This method is more accurate than the last.
 Let's try Trapeze() on the same function, cos(x):
 
 ```
->> X = [0:0.1:10]
->> Y = @(x) cos(x)
+>> X = [0:0.1:10];
+>> Y = @(x) cos(x);
 >> Trapeze(X, Y)
 ans = -0.5436
 ```
@@ -218,8 +218,8 @@ This method contrary to the two last has an order of 3, meaning it can approxima
 Finally with Simpson():
 
 ```
->> X = [0:0.1:10]
->> Y = @(x) cos(x)
+>> X = [0:0.1:10];
+>> Y = @(x) cos(x);
 >> Simpson(X, Y)
 ans = -0.5440
 ```
