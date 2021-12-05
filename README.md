@@ -309,6 +309,16 @@ It is possible to solve Ax = b for matrixes A triangular, as shown by the follow
 
 This is called the escalation method, the same is possible with lower triangular matrixes.
 
+```
+>> A = [1 2 3; 0 3 4; 0 0 2]
+>> b = [2 2 2].';
+>> Resolution(A, b)
+ans =
+  0.3333
+  -0.6667
+  1.0000
+```
+
 #### LU's factorization
 
 Let A belong to Mn(K), A admits a factorization (or decomposition) LU when there exist a pair of (L, U) elements of Mn(K) with L lower triangular and U upper triangular, such as: A = LU.
