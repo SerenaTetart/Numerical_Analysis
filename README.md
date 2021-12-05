@@ -270,9 +270,9 @@ Gauss-Seidel has a rate of convergence faster than Jacobi because we compute app
 Just like Jacobi's method, Gauss-Seidel's method converge if A is strictly diagonally dominant.
 
 ```
->> A = [5 -1 1; 2 8 -1; -1 1 4]
->> b = [10 11 3].'
->> x0 = [0, 0, 0].'
+>> A = [5 -1 1; 2 8 -1; -1 1 4];
+>> b = [10 11 3].';
+>> x0 = [0, 0, 0].';
 >> GaussSeidel(A, b, x0, 10^-5, 10^3)
 ans =
   2.0000
@@ -285,5 +285,17 @@ ans =
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144730664-b9b58774-06ec-41a0-a9c2-40d647d2c101.png">
 </p>
+
+```
+>> A = [5 -1 1; 2 8 -1; -1 1 4];
+>> b = [10 11 3].';
+>> w = 1/2;
+>> x0 = [0, 0, 0].';
+>> Relaxation(A, b, x0, w, 10^-5, 10^3)
+ans =
+  2.0000
+  1.0000
+  1.0000
+```
 
 ### Direct Method:
