@@ -245,4 +245,8 @@ The idea is as follow:
 
 #### Gauss-Seidel's Method:
 
+
+#### Relaxation's Method:
+
+
 ### Direct Method:
