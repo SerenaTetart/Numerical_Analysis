@@ -248,6 +248,17 @@ The idea is as follow:
 
 If A is strictly diagonally dominant, then the Jacobi's method associated with A converge.
 
+```
+>> A = [5 -1 1; 2 8 -1; -1 1 4]
+>> b = [10 11 3].'
+>> x0 = [0, 0, 0].'
+>> Jacobi(A, b, x0, 10^-5, 10^3)
+ans =
+  2.0000
+  1.0000
+  1.0000
+```
+
 #### Gauss-Seidel's Method:
 
 Gauss-Seidel has a rate of convergence faster than Jacobi because we compute approximations sooner in the sequence.
