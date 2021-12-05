@@ -315,7 +315,7 @@ This is called the escalation method, the same is possible with lower triangular
 >> Resolution(A, b)
 ans =
   0.3333
-  -0.6667
+ -0.6667
   1.0000
 ```
 
