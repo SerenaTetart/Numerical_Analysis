@@ -250,6 +250,8 @@ If A is strictly diagonally dominant, then the Jacobi's method associated with A
 
 #### Gauss-Seidel's Method:
 
+Gauss-Seidel has a rate of convergence faster than Jacobi because we compute approximations sooner in the sequence.
+
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144730311-263445e2-a7db-4865-bf05-4cbfefe97da4.png">
 </p>
