@@ -331,13 +331,13 @@ In order to get the LU's factorization we need to apply Gauss' pivots method:
 >> A = [1 2 3; 2 3 4; 1 3 2]
 >> [L, U] = LU(A)
 L = 
-  1 0 0
-  2 1 0
-  1 -1 1
+  1  0  0
+  2  1  0
+  1 -1  1
 U = 
-  1 2 3
+  1  2  3
   0 -1 -2
-  0 0 -3
+  0  0 -3
 ```
 
 #### Cholesky's factorization
