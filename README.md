@@ -304,7 +304,7 @@ It is possible to solve Ax = b for matrixes A triangular, as shown by the follow
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144760140-5db630bb-6998-47e7-a77c-f13f93a5ee49.png">
-<img src="https://user-images.githubusercontent.com/65224852/144760290-0586ab73-497c-4ada-bd69-eca5fa13a009.png">
+<img src="https://user-images.githubusercontent.com/65224852/144760400-b3b368a8-ae16-4bf7-9105-be549f8cff8e.png">
 </p>
 
 This is called the escalation method, the same is possible with lower triangular matrixes.
