@@ -346,3 +346,13 @@ U =
 
 #### Cholesky's factorization:
 
+For all matrixes A symmetric positive definite, there exist a matrix lower triangular B such as: A = BB^T
+
+Furthermore this factorization is unique if the diagonal coefficients of B are strictly positive.
+
+The idea to get B is to multiply both B and B^T (transpose) and compare with the matrix A, as show below:
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/65224852/144939443-640d8f3b-4272-4feb-ba1d-19ddf8f0e295.png">
+<img src="https://user-images.githubusercontent.com/65224852/144939445-5ca165a2-8e2f-4eef-892f-e0da0b6ccb99.png">
+</p>
