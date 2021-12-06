@@ -358,3 +358,17 @@ The idea to get B is to multiply both B and B^T (transpose) and compare with the
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144940388-31fd3079-f5d1-46ed-8d42-8bb7b95ff297.png">
 </p>
+
+```
+>> A = [1 2 3; 2 3 4; 3 4 2]
+>> B = Cholesky(A)
+B =
+  1.0000 +      0i        0 +      0i        0 +      0i
+  2.0000 +      0i        0 + 1.0000i        0 +      0i
+  3.0000 +      0i        0 + 2.0000i        0 + 1.7321i
+>> B*B.'
+ans =
+  1.0000   2.0000   3.0000
+  2.0000   3.0000   4.0000
+  3.0000   4.0000   2.0000
+```
