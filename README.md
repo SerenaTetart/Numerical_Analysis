@@ -354,6 +354,7 @@ The idea to get B is to multiply both B and B^T (transpose) and compare with the
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144939443-640d8f3b-4272-4feb-ba1d-19ddf8f0e295.png">
-  
+</p>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/65224852/144939445-5ca165a2-8e2f-4eef-892f-e0da0b6ccb99.png">
 </p>
