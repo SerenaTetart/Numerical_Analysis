@@ -356,5 +356,5 @@ The idea to get B is to multiply both B and B^T (transpose) and compare with the
 <img src="https://user-images.githubusercontent.com/65224852/144939443-640d8f3b-4272-4feb-ba1d-19ddf8f0e295.png">
 </p>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/65224852/144939649-813fca1c-1e6f-4495-9dba-2d0fce6e0b64.png">
+<img src="https://user-images.githubusercontent.com/65224852/144939722-4a428deb-8057-414a-ac34-3489dc0757b2.png">
 </p>
