@@ -319,7 +319,7 @@ ans =
   1.0000
 ```
 
-Knowing that, what we need is to factorize A into triangular matrixes so that we can apply the equation above.
+Knowing that, what we need is to factorize A into triangular matrixes so we can apply the equation above.
 
 #### LU factorization:
 
